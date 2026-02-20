@@ -1,0 +1,39 @@
+RECIPIENT: Marc Veasey
+CHAMBER: HOUSE
+STATE/DISTRICT: TX-33
+PARTY: D
+STANCE: RECEPTIVE
+CONTACT FORM: https://veasey.house.gov/contact
+DC PHONE: (202) 225-9897
+============================================================
+SUBJECT: Expanding Social Security: Revenue-Constrained Benefit Extension
+TOPIC: Social Security
+============================================================
+
+Dear Representative Marc Veasey,
+
+I am writing to bring to your attention a comprehensive, revenue-constrained proposal to expand Social Security benefits to all American adults living below the living wage threshold — without adding a single dollar to the federal deficit.
+
+THE PROPOSAL: The Social Security Extension Act would:
+
+1. RESTRUCTURE FICA to fund a new Tier 2 benefit for 138 million eligible adults (67M current SS beneficiaries + 71M working-age adults below $2,200/month living wage)
+
+2. IMPLEMENT mark-to-market taxation on economic income exceeding $1 billion in wealth, generating $210 billion in Year 1, growing to $578 billion by Year 10
+
+3. ESTABLISH a sovereign equity fund (modeled on Alaska's Permanent Fund and Norway's Government Pension Fund) to provide stable, growing returns
+
+KEY NUMBERS FROM OUR MODEL:
+- Year 1 benefits: $198-249/month per eligible adult
+- Year 30 benefits: $798-1,731/month (depending on wealth tax inclusion)
+- Income Gini reduction: 0.39 to 0.32 (18% — moves US to Canada's level)
+- GDP impact: +5.3% by Year 30 via consumption multiplier effects
+- Billionaire impact: Wealth still grows from $8.8B average to $110B over 40 years (vs $157B without tax)
+- Social Security solvency: Guaranteed by revenue-constrained design — benefits adjust automatically to available revenue
+
+This proposal has been modeled with five behavioral response regimes, stress-tested under adverse conditions, and analyzed for general equilibrium effects. Full documentation including a working paper, policy brief, and technical appendix are available.
+
+I respectfully request the opportunity to provide a staff briefing on this proposal, and ask that you consider co-sponsoring enabling legislation.
+
+Respectfully,
+ 
+,  

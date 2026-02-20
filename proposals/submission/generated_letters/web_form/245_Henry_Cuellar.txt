@@ -1,0 +1,39 @@
+RECIPIENT: Henry Cuellar
+CHAMBER: HOUSE
+STATE/DISTRICT: TX-28
+PARTY: D
+STANCE: SKEPTICAL
+CONTACT FORM: https://cuellar.house.gov/contact
+DC PHONE: (202) 225-1640
+============================================================
+SUBJECT: Strengthening Social Security Solvency — Bipartisan Framework
+TOPIC: Budget/Spending
+============================================================
+
+Dear Representative Henry Cuellar,
+
+I am writing regarding the Social Security solvency crisis. The trust fund is projected to be depleted by 2034, at which point 67 million beneficiaries face an automatic 23% benefit cut. I wish to bring a fiscally responsible solution to your attention.
+
+THE PROPOSAL: A revenue-constrained Social Security modernization that:
+
+1. RESTRUCTURES FICA contributions to fund extended benefits — no new deficit spending
+2. Uses a mathematical revenue constraint: benefits = available_revenue / eligible_population — solvency is guaranteed by construction
+3. OPTIONALLY supplements with a mark-to-market tax on billionaire economic income ($210B/year from 935 individuals holding $8.2 trillion)
+4. Creates a sovereign equity fund (Alaska Permanent Fund / Norway model) for stable returns
+
+FISCAL DISCIPLINE FEATURES:
+- Zero deficit impact — revenue-constrained formula prevents overspending
+- Benefits ratchet down automatically if revenue declines (Dybvig 1995 mechanism)
+- Reserve fund covers temporary shortfalls without borrowing
+- Independent actuarial review built into governance structure
+- 40-year projection shows sustainable growth under 5 behavioral scenarios
+
+The base model (FICA restructuring alone) delivers $106/month in Year 1 growing to $442/month by Year 30 for eligible adults below the living wage threshold. With the optional billionaire income tax, benefits reach $249/month in Year 1 and $1,731/month by Year 30.
+
+This has been modeled with stress tests including 50% capital flight scenarios. Even under the most pessimistic assumptions, the program remains solvent because spending cannot exceed revenue.
+
+I would welcome the opportunity to provide a 20-minute staff briefing with fiscal impact documentation.
+
+Respectfully,
+ 
+,  
